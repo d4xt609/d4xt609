@@ -1,16 +1,50 @@
-## Hi there 👋
+## 🛠 Мои навыки
+# Привет! Я — Данил 👋
 
-<!--
-**d4xt609/d4xt609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Junior QA Engineer / Manual + Python Automation  
+💻 Люблю тестировать, находить баги и автоматизировать рутину
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Образование и курсы
+
+📚 **Курс по тестированию ПО**  
+(2025)  
+Изучено:
+- Основы тестирования (SDLC, STLC, виды, уровни, цели)
+- Тест-дизайн: эквивалентное разбиение, BVA, Decision Tables, диаграммы переходов
+- Документация: Test Case, Bug Report, чек-листы
+- Тестирование веб-приложений, HTTP, DevTools
+- Agile / Scrum, работа в команде, CI/CD (Jenkins, Git)
+
+---
+- 🧪 **Ручное тестирование**
+  - Web-интерфейсы, UX, функциональные и интеграционные сценарии
+  - Составление чек-листов, тест-кейсов, баг-репортов
+- 💻 **Знакомство с автоматизацией**
+  - Пробовал писать простые автотесты на Python (assert, структура)
+  - Понимаю основы: модули, функции, логика тестов
+  - Готов углубляться в Pytest, Selenium
+- 🧩 **Инструменты**
+  - Jira (создание задач, багов, доски)
+  - Git, GitHub, CMD
+  - DevTools, Postman (на базовом уровне)
+- 🔍 Работа с логами, Traceback
+- 🧠 Базовые знания SQL, JSON
+
+-->## 📁 Проекты
+
+- ✅ **Интеграционный тест модуля на Python**
+  - Тесты на авторизацию, загрузку профиля, взаимодействие компонентов
+- 🔍 **Ручное тестирование Авито**
+  - Проверка: поиск → фильтры → карточка товара → чат
+- 📌 **Работа с Jira**
+  - Создание задач, составление тест-кейсов, отслеживание багов
+
+---
+
+## 📫 Связь со мной
+
+- 📧 Email: danil2501diuking2501@mail.ru  
+- 💬 Telegram: [@d4xt609](@d4xt609)  
+- 🗺 Location: Remote (UTC+3, Moscow)
